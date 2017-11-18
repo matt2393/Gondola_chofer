@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "962598275957",
+    "firebase_url": "https://gondola-8f041.firebaseio.com",
+    "project_id": "gondola-8f041",
+    "storage_bucket": "gondola-8f041.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962598275957:android:d0cda857efdf2725",
+        "android_client_info": {
+          "package_name": "com.peress.gondola_chofer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962598275957-4dfbsnnfab7kduvsdcusnvg6lfbml2eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_OETstQxsYbrLIp-rtGcwpZRTdqFuprk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
